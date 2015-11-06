@@ -1736,97 +1736,95 @@ UI_20150729_001735
 UI_20150729_001736	
 UI_20150729_001737	
 UI_20150729_001738	
-UI_20150729_001739	
-UI_20150729_001740	
-UI_20150729_001741	
-UI_20150729_001742	
-UI_20150729_001743	
-UI_20150729_001744	
-UI_20150729_001745	
-UI_20150729_001746	
-UI_20150729_001747	
-UI_20150729_001748	
-UI_20150729_001749	
-UI_20150729_001750	
-UI_20150729_001751	
-UI_20150729_001752	
-UI_20150729_001753	
-UI_20150729_001754	
-UI_20150729_001755	
-UI_20150729_001756	
-UI_20150729_001757	
-UI_20150729_001758	
-UI_20150729_001759	
-UI_20150729_001760	
-UI_20150729_001761	
-UI_20150729_001762	
-UI_20150729_001763	
-UI_20150730_001764	
-UI_20150730_001765	
-UI_20150730_001766	
-UI_20150803_001767	
-UI_20150803_001768	
-UI_20150803_001769	
-UI_20150804_001770	
-UI_20150804_001771	
-UI_20150807_001772	
-UI_20150807_001773	
-UI_20150807_001774	
-UI_20150918_001775	
-UI_20150918_001776	
-UI_20150918_001777	
-UI_20150918_001778	
-UI_20150918_001779	
-UI_20150918_001780	
-UI_20150918_001781	
-UI_20150918_001782	
-UI_20150918_001783	
-UI_20150918_001784	
-UI_20150918_001785	
-UI_20150918_001786	
-UI_20150918_001787	
-UI_20150918_001788	
-UI_20150918_001789	
-UI_20150918_001790	
-UI_20150918_001791	
-UI_20150918_001792	
-UI_20150918_001793	
-UI_20150918_001794	
-UI_20150918_001795	
-UI_20150918_001796	
-UI_20150918_001797	
-UI_20150918_001798	
-UI_20150918_001799	
-UI_20150918_001800	
-UI_20150918_001801	
-UI_20150918_001802	
-UI_20150918_001803	
-UI_20150918_001804	
-UI_20150918_001805	
-UI_20150918_001806	
-UI_20150918_001807	
-UI_20150918_001808	
-UI_20150918_001809	
-UI_20150918_001810	
-UI_20151001_001811	
-UI_20151001_001812	
-UI_20151001_001813	
-UI_20151001_001814	
-UI_20151016_001815	
-UI_20151016_001816	
-UI_20151016_001817	
-UI_20151016_001818	
-UI_20151016_001819	
-UI_20151016_001820	
-UI_20151016_001821	
-UI_20151016_001822 
-UI_20151016_001823 
-UI_20151016_001824	
-UI_20151016_001825 
-UI_20151022_001826	
-UI_20151022_001827	
-UI_20151022_001828	
-UI_20151022_001829	
-UI_20151023_001830	
-UI_20151023_001831	
-UI_20151023_001832	
+UI_20150729_001739	{@st59}Cerrar Creación de Flechas{/}
+UI_20150729_001740	{memo X}Fragmentos necesitados : Mutante %s / Bestia %s / Plant %s
+UI_20150729_001741	${@st42b}         Las clases de tipo Espadachín pueden correr                        al presionar dos veces una flecha direccional{/}
+UI_20150729_001742	{@st41}Ajustes de Grupo
+UI_20150729_001743	{@st41}Ajustes de Recrutamiento para Grupo
+UI_20150729_001744	{@st42}Buscar Miembros de Grupo{/}
+UI_20150729_001745	Cuando un jugador cumplas con los criterios que has seleccionado, una notificación con [Unirse al Grupo!] aparecerá en tu pantalla.
+UI_20150729_001746	{@st41b}Lista de Jugadores Recomendados{/}
+UI_20150729_001747	{@st41}Información de Talentos
+UI_20150729_001748	{@st59}Cancelar Aumento{/}
+UI_20150729_001749	{@st59b}Aumento de Gema/Carta{nl}{@st59s} - Selecciona una gema o carta de tu inventario para aumentarla.{nl} - Todos los objetos pueden ser utilizados como materiales para aumentar gemas, con la excepción de objetos de misión.{nl} (Más efectivo al usar una gema como material){nl} - Las Cartas sólo pueden ser aumentadas usando otras cartas.{/}
+UI_20150729_001750	{#000000}{s22}Esperando entrar al servidor...
+UI_20150729_001751	{#000000}{s22}El servidor está lleno. Ingresando a la cola para entrar.
+UI_20150729_001752	{#000000}{s22}Rango Actual : %s
+UI_20150729_001753	{@st43}Liga de Batalla Grupal
+UI_20150729_001754	{@st59}Cerrar Liga de Batalla Grupal
+UI_20150729_001755	{@st42}Programa de Liga de Batalla Grupal
+UI_20150729_001756	{@st43}Rankings de la Liga de Batalla Grupal
+UI_20150729_001757	{@st59}Cerrar Rankings de la Liga de Batalla Grupal
+UI_20150729_001758	Nombre de Grupo
+UI_20150729_001759	{@st41b}Nombre de Habilidad
+UI_20150729_001760	{@st59}Aceptar Misión Grupal{/}
+UI_20150729_001761	{@st59}Eliminar este Ticket{/}
+UI_20150729_001762	Puntuación
+UI_20150729_001763	Unirse a la Liga de Batalla Grupal
+UI_20150730_001764	{memo X}{@st56}Mi Rango
+UI_20150730_001765	{memo X}{@st56}Rango por Asesinatos
+UI_20150730_001766	{memo X}{@st56}Rango por Daño
+UI_20150803_001767	General: /s chat{nl}Alarido: /y chat {nl}Grupo: /p chat{nl} Susurro: /w TeamName Chat
+UI_20150803_001768	{@st66b}Vibración Joypad{/}
+UI_20150803_001769	Una partida ha sido encontrada. Por favor espera a poder unirte al juego.
+UI_20150804_001770	${memo had to be shortened to fit the UI}{@st43}{s18}Selecciona el personaje a recibir los objeto(s).{/}
+UI_20150804_001771	$Ranuras Máximas : %s
+UI_20150807_001772	{@st41b}Detalles {img red_down_arrow 16 16}
+UI_20150807_001773	{memo X}
+UI_20150807_001774	{memo X}
+UI_20150918_001775	Duración Campamento
+UI_20150918_001776	Efecto
+UI_20150918_001777	La duración del Campamento incrementa cuando este se renueva.{nl} Requiere %s plata.
+UI_20150918_001778	Almacén Personal
+UI_20150918_001779	{@st41b}Tipo : {@sti7}%s{/}
+UI_20150918_001780	{@st41b}Dificultad : {@sti7}%s{/}
+UI_20150918_001781	{#ffff00}{ol}A %s{/}{/} jugadores les gusta este personaje
+UI_20150918_001782	{@st43}Mazmorras por Instancia
+UI_20150918_001783	{@st41}Revisar Ubicación
+UI_20150918_001784	{#000000}Nombre Mazmorra{/}
+UI_20150918_001785	{#000000}Nivel Entrada{/}
+UI_20150918_001786	{#000000}Total de Entradas{/}
+UI_20150918_001787	{#000000}El número de entradas se restablecerá en %s.{/}
+UI_20150918_001788	{img silver 20 20} Precio
+UI_20150918_001789	Información Grupos cercanos
+UI_20150918_001790	Fragmentos necesitados : %s 
+UI_20150918_001791	{@st66b}Vacío
+UI_20150918_001792	{@st42}Mostrar Grupos cercanos{/}
+UI_20150918_001793	Amistad con {@sti9}%s{@st66b} : {@st66b}Nivel{/} {@sti9}%s {@st66b}
+UI_20150918_001794	Amistad
+UI_20150918_001795	{@st41b}Material para crear un objeto adquirido!
+UI_20150918_001796	{@st66b}{s20}Te haz vuelto {/}{s20}{#cc6600}{ol}Incapaz de Combatir {/}{@st66b}{s20}!{/}
+UI_20150918_001797	{@st66b}Recomenzar desde el Punto de Recuperación más cercano{/}
+UI_20150918_001798	{@st66b}Recomenzar aquí (requiere %s iCoins){/}
+UI_20150918_001799	{@st66b}Regresar al área{/}
+UI_20150918_001800	{@st66b}Abandonar misión y reintentar{/}
+UI_20150918_001801	{@st66b}Reintentar{/}
+UI_20150918_001802	{@st66b}Objetos Vendidos{/}
+UI_20150918_001803	{@st53}Puntuación de Ranking : %s
+UI_20150918_001804	Total No Comerciable: %s
+UI_20150918_001805	{@st42b}Revisar Diálogo{/}
+UI_20150918_001806	{@st66b}Dar comida a grupo externo{/}
+UI_20150918_001807	{@st41b}Cambiar Título del Panel Publicitario
+UI_20150918_001808	{@sti9}Mi Rango
+UI_20150918_001809	{@sti9}Rango por Asesinatos
+UI_20150918_001810	{@sti9}Rango por Daño
+UI_20151001_001811	{@st43}Ajuste de Teclas{/}
+UI_20151001_001812	{@st45tw2}Categoría
+UI_20151001_001813	Acción
+UI_20151001_001814	Restaurar configuración por defecto
+UI_20151016_001815	{@st59}El objeto seleccionado será asegurado{/}
+UI_20151016_001816	{@st59}Puedes cambiar la temática de tu alojamiento y prever su apariencia.
+UI_20151016_001817	%s Personajes{/}
+UI_20151016_001818	{@st42b}Prever
+UI_20151016_001819	{@st42b}Regresar
+UI_20151016_001820	{@st42b}Comprar
+UI_20151016_001821	{@st42b}Aplicar
+UI_20151016_001822	Nombre de Gremio y Descripción
+UI_20151016_001823	Nombre de Grupo
+UI_20151016_001824	Título
+UI_20151016_001825	Aviso
+UI_20151022_001826	{@st41}Cola del Servidor
+UI_20151022_001827	{#000000}{s18}El servidor está lleno. Ingresando a la cola para entrar.
+UI_20151022_001828	{#000000}{s18}Posición Actual : %s
+UI_20151022_001829	{@st66b}Mostrar los Efectos de otros Personajes
+UI_20151102_001830	iCoin
